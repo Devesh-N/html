@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40.687" height="38.557" viewBox="0 0 40.687 38.557"><defs><style>.a {
-  fill: none;
-  stroke: #707070;
-}
-
-</style></defs><line class="a" x1="40" y2="37.83" transform="translate(0.344 0.363)"></line></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="40.687" height="38.557" viewBox="0 0 40.687 38.557"><defs><style>.a{fill:none;stroke:#707070}</style></defs><line x1="40" y2="37.83" class="a" transform="translate(0.344 0.363)"/></svg>
