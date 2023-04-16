@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-quicksand: Quicksand;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-16xl: 35px;
+  --font-size-36xl: 55px;
+  --font-size-8xl-5: 27.5px;
+  --font-size-18xl: 37px;
+  --font-size-xl: 20px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mediumblue-100: #5034fc;
+  --color-mediumblue-200: #3e22e6;
+  --color-black: #000;
+  --color-gray: #fafafc;
+  --color-darkgray: rgba(174, 172, 172, 0.86);
+
+  /* border radiuses */
+  --br-5xs: 8px;
+}
+
+body {
+  cursor: default;
+}
+

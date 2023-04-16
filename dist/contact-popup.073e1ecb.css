@@ -1,0 +1,136 @@
+.contact-popup-child {
+  cursor: pointer;
+  width: 108px;
+  height: 98px;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 31px;
+  right: 50px;
+}
+
+.contact-us {
+  font-size: inherit;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 500;
+  position: absolute;
+  top: 124px;
+  left: 372px;
+}
+
+.contact-popup-item {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 173px;
+  height: 40px;
+  background-color: #0000;
+  position: absolute;
+  top: 228px;
+  left: 261px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.contact-popup-inner {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 469px;
+  height: 40px;
+  background-color: #0000;
+  position: absolute;
+  top: 290px;
+  left: 261px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.rectangle-input {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 269px;
+  height: 40px;
+  background-color: #0000;
+  position: absolute;
+  top: 228px;
+  left: 461px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.rectangle-textarea {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 469px;
+  height: 142px;
+  background-color: #0000;
+  position: absolute;
+  top: 357px;
+  left: 261px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.contact-popup-child1 {
+  cursor: pointer;
+  background-color: var(--color-mediumblue-100);
+  width: 186px;
+  height: 57px;
+  border: none;
+  border-radius: 4px;
+  padding: 0;
+  position: absolute;
+  bottom: 104px;
+  left: 261px;
+}
+
+.send-message {
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 553px;
+  left: 275px;
+}
+
+.group-inner {
+  height: calc(100% + .73px);
+  width: calc(100% + .69px);
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: -.5px -.19px -.23px -.5px;
+  overflow: hidden;
+}
+
+.line-parent {
+  cursor: pointer;
+  width: 40px;
+  height: 37.83px;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 61.08px;
+  right: 84.5px;
+}
+
+.contact-popup {
+  background-color: var(--color-white);
+  width: 1014px;
+  height: 700px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+  position: relative;
+  overflow: auto;
+}
+
+/*# sourceMappingURL=contact-popup.073e1ecb.css.map */

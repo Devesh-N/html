@@ -1,0 +1,53 @@
+.poplolo-child {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: -6px;
+  right: 6px;
+  width: 108px;
+  height: 98px;
+}
+.group-child1 {
+  position: absolute;
+  height: calc(100% + 0.73px);
+  width: calc(100% + 0.69px);
+  top: -0.5px;
+  right: -0.19px;
+  bottom: -0.23px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-group {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20.58px;
+  right: 39.5px;
+  width: 40px;
+  height: 37.83px;
+}
+.youre-form-has {
+  position: absolute;
+  top: 28px;
+  left: 215px;
+  letter-spacing: 1px;
+}
+.poplolo {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1014px;
+  height: 79px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

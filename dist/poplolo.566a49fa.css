@@ -1,0 +1,56 @@
+.poplolo-child {
+  cursor: pointer;
+  width: 108px;
+  height: 98px;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: -6px;
+  right: 6px;
+}
+
+.group-child1 {
+  height: calc(100% + .73px);
+  width: calc(100% + .69px);
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: -.5px -.19px -.23px -.5px;
+  overflow: hidden;
+}
+
+.line-group {
+  cursor: pointer;
+  width: 40px;
+  height: 37.83px;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 20.58px;
+  right: 39.5px;
+}
+
+.youre-form-has {
+  letter-spacing: 1px;
+  position: absolute;
+  top: 28px;
+  left: 215px;
+}
+
+.poplolo {
+  background-color: var(--color-white);
+  width: 1014px;
+  height: 79px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+  position: relative;
+  overflow: auto;
+}
+
+/*# sourceMappingURL=poplolo.566a49fa.css.map */

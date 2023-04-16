@@ -1,0 +1,340 @@
+.kw-official-logo-12 {
+  width: 44px;
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+
+.about-page-child {
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 108px;
+  cursor: default;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 -64px 99px #00000029;
+}
+
+.button1 {
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 39px;
+  left: 312px;
+}
+
+.contact1 {
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  letter-spacing: 1px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 44px;
+  left: 1051px;
+}
+
+.about-page-item {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  background-color: var(--color-mediumblue-100);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 178px;
+  height: 65px;
+  padding: 0;
+  position: absolute;
+  top: 23px;
+  right: 116px;
+}
+
+.kw-official-logo-13 {
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+  cursor: pointer;
+  position: absolute;
+  top: 32px;
+  left: 260px;
+}
+
+.copyright-20231 {
+  letter-spacing: -1.8px;
+  font-weight: 500;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.copyright-2023-know-wallet-a-container {
+  width: 593px;
+  height: 37px;
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 296px);
+}
+
+.about-page-inner {
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 95px;
+  color: var(--color-mediumblue-100);
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  box-shadow: 0 72px 99px #00000029;
+}
+
+.try-now2 {
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 41px;
+  right: 152px;
+}
+
+.the-why-behind {
+  margin: 0;
+  font-family: inherit;
+  font-size: 85px;
+  font-weight: 700;
+  position: absolute;
+  top: 233px;
+  left: 414px;
+}
+
+.a-message-from {
+  font-size: var(--font-size-16xl);
+  margin: 0;
+  font-family: inherit;
+  font-style: italic;
+  font-weight: 400;
+  position: absolute;
+  top: 352px;
+  left: 720px;
+}
+
+.about-page-child1 {
+  background-color: var(--color-mediumblue-100);
+  width: 1394px;
+  height: 1113px;
+  position: absolute;
+  top: 461px;
+  left: 232px;
+}
+
+.its-disheartening-to {
+  margin: 0;
+}
+
+.its-disheartening-to-container {
+  font-family: var(--font-quicksand);
+  color: var(--color-white);
+  position: absolute;
+  top: 541px;
+  left: 284px;
+}
+
+.home1 {
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  letter-spacing: 1px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 44px;
+  left: 801px;
+}
+
+.about1 {
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  letter-spacing: 1px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 44px;
+  left: 926px;
+}
+
+.about-page {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1999px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+  position: relative;
+}
+
+.contact-popup-child {
+  cursor: pointer;
+  width: 108px;
+  height: 98px;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 31px;
+  right: 50px;
+}
+
+.contact-us {
+  font-size: inherit;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 500;
+  position: absolute;
+  top: 124px;
+  left: 372px;
+}
+
+.contact-popup-item {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 173px;
+  height: 40px;
+  background-color: #0000;
+  position: absolute;
+  top: 228px;
+  left: 261px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.contact-popup-inner {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 469px;
+  height: 40px;
+  background-color: #0000;
+  position: absolute;
+  top: 290px;
+  left: 261px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.rectangle-input {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 269px;
+  height: 40px;
+  background-color: #0000;
+  position: absolute;
+  top: 228px;
+  left: 461px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.rectangle-textarea {
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 469px;
+  height: 142px;
+  background-color: #0000;
+  position: absolute;
+  top: 357px;
+  left: 261px;
+  box-shadow: 0 0 5px #00000029;
+}
+
+.contact-popup-child1 {
+  cursor: pointer;
+  background-color: var(--color-mediumblue-100);
+  width: 186px;
+  height: 57px;
+  border: none;
+  border-radius: 4px;
+  padding: 0;
+  position: absolute;
+  bottom: 104px;
+  left: 261px;
+}
+
+.send-message {
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 553px;
+  left: 275px;
+}
+
+.group-inner {
+  height: calc(100% + .73px);
+  width: calc(100% + .69px);
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: -.5px -.19px -.23px -.5px;
+  overflow: hidden;
+}
+
+.line-parent {
+  cursor: pointer;
+  width: 40px;
+  height: 37.83px;
+  background-color: #0000;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 61.08px;
+  right: 84.5px;
+}
+
+.contact-popup {
+  background-color: var(--color-white);
+  width: 1014px;
+  height: 700px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+  position: relative;
+  overflow: auto;
+}
+
+/*# sourceMappingURL=about-page.a57f6c00.css.map */

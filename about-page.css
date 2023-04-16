@@ -1,0 +1,314 @@
+.kw-official-logo-12 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+  width: 44px;
+  height: 43px;
+  object-fit: cover;
+}
+.about-page-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-white);
+  box-shadow: 0px -64px 99px rgba(0, 0, 0, 0.16);
+  width: 1920px;
+  height: 108px;
+  cursor: default;
+}
+.button1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 39px;
+  left: 312px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.contact1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 44px;
+  left: 1051px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 1px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.about-page-item {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-mediumblue-100);
+  position: absolute;
+  top: 23px;
+  right: 116px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 178px;
+  height: 65px;
+}
+.kw-official-logo-13 {
+  position: absolute;
+  top: 32px;
+  left: 260px;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.copyright-20231 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  letter-spacing: -1.8px;
+  font-weight: 500;
+}
+.copyright-2023-know-wallet-a-container {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 296px);
+  width: 593px;
+  height: 37px;
+}
+.about-page-inner {
+  position: absolute;
+  bottom: -4px;
+  left: 0px;
+  background-color: var(--color-white);
+  box-shadow: 0px 72px 99px rgba(0, 0, 0, 0.16);
+  width: 1920px;
+  height: 95px;
+  color: var(--color-mediumblue-100);
+}
+.try-now2 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 41px;
+  right: 152px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.the-why-behind {
+  margin: 0;
+  position: absolute;
+  top: 233px;
+  left: 414px;
+  font-size: 85px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.a-message-from {
+  margin: 0;
+  position: absolute;
+  top: 352px;
+  left: 720px;
+  font-size: var(--font-size-16xl);
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+}
+.about-page-child1 {
+  position: absolute;
+  top: 461px;
+  left: 232px;
+  background-color: var(--color-mediumblue-100);
+  width: 1394px;
+  height: 1113px;
+}
+.its-disheartening-to {
+  margin: 0;
+}
+.its-disheartening-to-container {
+  position: absolute;
+  top: 541px;
+  left: 284px;
+  font-family: var(--font-quicksand);
+  color: var(--color-white);
+}
+.home1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 44px;
+  left: 801px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 1px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.about1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 44px;
+  left: 926px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 1px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.about-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1999px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+
+.contact-popup-child {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 31px;
+  right: 50px;
+  width: 108px;
+  height: 98px;
+}
+.contact-us {
+  margin: 0;
+  position: absolute;
+  top: 124px;
+  left: 372px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.contact-popup-item {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 228px;
+  left: 261px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 173px;
+  height: 40px;
+}
+.contact-popup-inner {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 290px;
+  left: 261px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 469px;
+  height: 40px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 228px;
+  left: 461px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 269px;
+  height: 40px;
+}
+.rectangle-textarea {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 357px;
+  left: 261px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 469px;
+  height: 142px;
+}
+.contact-popup-child1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--color-mediumblue-100);
+  position: absolute;
+  bottom: 104px;
+  left: 261px;
+  border-radius: 4px;
+  width: 186px;
+  height: 57px;
+}
+.send-message {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 553px;
+  left: 275px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-inner {
+  position: absolute;
+  height: calc(100% + 0.73px);
+  width: calc(100% + 0.69px);
+  top: -0.5px;
+  right: -0.19px;
+  bottom: -0.23px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-parent {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 61.08px;
+  right: 84.5px;
+  width: 40px;
+  height: 37.83px;
+}
+.contact-popup {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1014px;
+  height: 700px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

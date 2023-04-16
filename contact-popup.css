@@ -1,0 +1,127 @@
+.contact-popup-child {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 31px;
+  right: 50px;
+  width: 108px;
+  height: 98px;
+}
+.contact-us {
+  margin: 0;
+  position: absolute;
+  top: 124px;
+  left: 372px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.contact-popup-item {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 228px;
+  left: 261px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 173px;
+  height: 40px;
+}
+.contact-popup-inner {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 290px;
+  left: 261px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 469px;
+  height: 40px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 228px;
+  left: 461px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 269px;
+  height: 40px;
+}
+.rectangle-textarea {
+  border: 1px solid var(--color-darkgray);
+  background-color: transparent;
+  position: absolute;
+  top: 357px;
+  left: 261px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.16);
+  box-sizing: border-box;
+  width: 469px;
+  height: 142px;
+}
+.contact-popup-child1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--color-mediumblue-100);
+  position: absolute;
+  bottom: 104px;
+  left: 261px;
+  border-radius: 4px;
+  width: 186px;
+  height: 57px;
+}
+.send-message {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 553px;
+  left: 275px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-inner {
+  position: absolute;
+  height: calc(100% + 0.73px);
+  width: calc(100% + 0.69px);
+  top: -0.5px;
+  right: -0.19px;
+  bottom: -0.23px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-parent {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 61.08px;
+  right: 84.5px;
+  width: 40px;
+  height: 37.83px;
+}
+.contact-popup {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1014px;
+  height: 700px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
